@@ -1,0 +1,11 @@
+a = int(input("enter price: "))
+b = 4
+print(a*b)
+print(a+b)
+print(a-b)
+print(a/b)
+print(a^b)
+print(x*y)
+print(x-y)
+print(x+y)
+print(x/y)
